@@ -1,0 +1,2 @@
+This repo contains my final project for an AI class I took at KSU (master's level).  In this juypter notebook I designed two models and cleaned a public dataset getting a best of almost 92% accuracy with 6 gestures (4 channels). 
+My 8-bit quantized model had 86% accuracy.  This project includes everything except compilation for converting the final model into something for the C2000 microcontroller (CLI).
